@@ -31,7 +31,7 @@
 	<security:authentication-manager>
 		<security:authentication-provider>
 			<security:user-service>
-				<security:user name="stefanlaioffer@gmail.com"
+				<security:user name="1998wangjiaqi@gmail.com"
 					password="123456" authorities="ROLE_ADMIN" />
 			</security:user-service>
 		</security:authentication-provider>
